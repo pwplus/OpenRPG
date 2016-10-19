@@ -1,10 +1,10 @@
 # Open RPG
 
 [![Join the chat at https://gitter.im/jdsutton/OpenRPG](https://badges.gitter.im/jdsutton/OpenRPG.svg)](https://gitter.im/jdsutton/OpenRPG?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Build Status](https://travis-ci.org/jdsutton/OpenRPG.svg?branch=master)](https://travis-ci.org/jdsutton/OpenRPG)
 
 ![dice logo](http://i.imgur.com/t0tuxQE.png)
 
-[![Build Status](https://travis-ci.org/jdsutton/OpenRPG.svg?branch=master)](https://travis-ci.org/jdsutton/OpenRPG)
 
 :game_die: This is an HTML5 app for creating, playing, and sharing RPGs. :game_die:
 
